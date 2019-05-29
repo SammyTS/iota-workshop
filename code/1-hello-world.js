@@ -19,3 +19,5 @@ iota
   .catch(err => {
     console.error(err)
   })
+
+Das ist ein Beispiel
